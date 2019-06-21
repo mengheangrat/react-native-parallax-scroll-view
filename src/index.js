@@ -146,7 +146,7 @@ class ParallaxScrollView extends Component {
 					},
 					foreground,
 					bodyComponent,
-					footerSpacer
+					//footerSpacer
 				)}
 				{maybeStickyHeader}
 			</View>
